@@ -1,0 +1,13 @@
+# API keys — NEVER commit these
+.env
+*.env
+
+# Results (optional to commit — your choice)
+results.json
+REPORT.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
